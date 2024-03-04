@@ -12,7 +12,7 @@ Resources linked at the bottom. To view the explainer, use https://excalidraw.co
 
 [Create Twitter on Solana guide from Loris Leiva](https://lorisleiva.com/create-a-solana-dapp-from-scratch/)  
 
-Programs to learn from (in order of complexity from easiest to hardest)
+Programs to learn from (in order of complexity from easiest to hardest)  
 [Anchor starter with 3 counter programs](https://github.com/solana-developers/anchor-starter)  
 [Anchor example contracts](https://github.com/tgaye/AnchorExampleContracts/)  
 [Solana program examples](https://github.com/solana-developers/program-examples)  
